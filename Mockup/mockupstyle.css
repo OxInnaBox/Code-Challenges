@@ -1,0 +1,231 @@
+#bg {
+    background-color: black;
+    margin: 0;
+}
+
+#top {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+#navdiv {
+    display: flex;
+    width: 50%;
+}
+
+.navtext {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightslategray;
+    display: inline-block;
+    margin: auto;
+}
+
+#logo {
+    width: 50px;
+}
+
+#cart {
+    width: 50px;
+}
+
+.regularwidth {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#elegant {
+    width: 100%;
+}
+
+#titletext {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25vw;
+    color: white;
+    margin: 0;
+}
+
+.sbflex {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#catalog {
+    width: 20%;
+    padding: 50px;
+    border-radius: 100%;
+    background-color: green;
+    text-align: center;
+}
+
+.photo {
+    width: 20%;
+    border-radius: 40px;
+}
+
+.photoround {
+    width: 20%;
+    border-radius: 100%;
+}
+
+.photo25 {
+    width: 24%;
+    border-radius: 40px;
+}
+
+.photoround25 {
+    width: 24%;
+    border-radius: 100%;
+}
+
+.photo33 {
+    width: 32%;
+    border-radius: 40px;
+}
+
+.photoround33 {
+    width: 32%;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.link {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+#arrow {
+    width: 50%;
+}
+
+.roundrect {
+    width: 32%;
+    background-color: darkslategray;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.text1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightslategray;
+}
+
+.smallerwidth {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+.text2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(178, 182, 186);
+    font-size: larger;
+}
+
+
+.yellowtext {
+    color: yellow;
+}
+
+.smallestwidth {
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
+
+.text3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: xx-large;
+}
+
+#strip {
+    width: 100%;
+}
+
+.stripimg {
+    width: 100%;
+}
+
+.longrect {
+    background-color: rgb(46, 46, 46);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.selectedrect {
+    background-color: rgb(14, 14, 14);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+}
+
+.expand {
+    width: 9%;
+}
+
+.faqtext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: white;
+    font-weight: 400;
+}
+
+.clockwise {
+    transform: rotate(90deg);
+}
+
+.counterclockwise {
+    transform: rotate(-90deg);
+}
+
+.talkrect {
+    width: 32%;
+    background-color: rgb(69, 69, 69);
+    border-radius: 40px;
+}
+
+.paddingdiv {
+    padding: 40px;
+}
+
+.paddingdiv2 {
+    padding: 10px;
+}
+
+.inputtext {
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 10px;
+}
+
+#bot {
+    background-color: rgb(47, 47, 47);
+    padding-top: 40px;
+}
+
+.slogan {
+    width: 20%;
+}
+
+.sloganimg {
+    width: 50%;
+}
+
+.slogantext {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
